@@ -43,7 +43,7 @@ module.exports = {
       for (const key of [
         'icon', 'color', 'sound', 'tag', 'clickAction',
         'bodyLocKey', 'bodyLocArgs', 'titleLocKey', 'titleLocArgs', 'channel',
-        'ticker', 'sticky', 'eventTime', 'localOnly', 'notificationPriority',
+        'ticker', 'sticky', 'eventTime', 'localOnly', 'notificationPriority', 'bypassDnD',
         'defaultSound', 'defaultVibrateTimings', 'defaultLightSettings', 'vibrateTimings',
         'visibility', 'notificationCount', 'lightSettings', 'image', 'timeout', 'importance',
         'subject', 'group', 'icon_url', 'ledColor', 'vibrationPattern', 'persistent',
